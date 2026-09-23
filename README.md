@@ -10,28 +10,28 @@ I'm a proactive Computing student with experience developing software applicatio
 
 Languages
 
-C#
-Java
-Python
-SQL
-HTML / CSS
+- C#
+- Java
+- Python
+- SQL
+- HTML / CSS
 
 ## Tools & Technologies
 
-Unity
-Visual Studio
-IntelliJ IDEA
-Git & GitHub
-Oracle Database
-Maya
+- Unity
+- Visual Studio
+- IntelliJ IDEA
+- Git & GitHub
+- Oracle Database
+- Maya
 
 ## Currently Learning
-Data Analytics
-Data Structures & Algorithms
-Software Testing
-Object-Oriented Programming
-Database Development
-Game Development
+- Data Analytics
+- Data Structures & Algorithms
+- Software Testing
+- Object-Oriented Programming
+- Database Development
+- Game Development
 
 ## Currently
 
@@ -41,7 +41,7 @@ Continuing to build my technical skills through university projects, personal pr
 
 ## Connect
 
-[LinkedIn] (https://www.linkedin.com/in/rani-wheeza-computing-streams-game-development)
+[LinkedIn](https://www.linkedin.com/in/rani-wheeza-computing-streams-game-development)
 <!--
 **Rani-Wheeza/Rani-Wheeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
