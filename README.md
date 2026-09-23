@@ -42,6 +42,8 @@ Continuing to build my technical skills through university projects, personal pr
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/rani-wheeza-computing-streams-game-development)
+
+![GitHub Contribution Snake](YOUR_SNAKE_IMAGE_URL)
 <!--
 **Rani-Wheeza/Rani-Wheeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
