@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark-banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-banner.png">
+  <img src="dark-banner.png" alt="Rani - Computing with Games Development">
+</picture>
+
 ## Hi I'm Rani 👋
 
 
